@@ -2,6 +2,8 @@
 
 This repository contains the code and resources for our submission for the NUS Datathon 2026.
 
+> **Note:** The dataset (`sds_datathon_gradsingapore.xlsx`) is not provided in this repository due to a Non-Disclosure Agreement (NDA). Consequently, the code cannot be executed without the dataset. The notebooks and scripts are provided for review and demonstration of our methodology.
+
 ## Project Structure
 
 Please ensure you maintain the following folder structure for the code to run correctly, as `SUBMISSION.ipynb` relies on relative paths to access the dataset.
