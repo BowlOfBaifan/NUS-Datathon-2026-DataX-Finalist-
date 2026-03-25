@@ -1,5 +1,7 @@
 # NUS Datathon 2026 Submission
 
+Team: Fabian Lim, Lim Yan Zhe, Kevin Karuna William, Ear Hong Wee, Alvin Ong Zhao Wei
+
 This repository contains the code and resources for our submission for the NUS Datathon 2026.
 
 > **Note:** The dataset (`sds_datathon_gradsingapore.xlsx`) is not provided in this repository due to a Non-Disclosure Agreement (NDA). Consequently, the code cannot be executed without the dataset. The notebooks and scripts are provided for review and demonstration of our methodology.
